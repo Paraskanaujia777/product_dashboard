@@ -1,0 +1,50 @@
+ #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.listStyle{
+ display: inline-block; 
+ /* background-color: blue; */
+ margin-top: 0px;
+ /* position: fixed; */
+ /* top: 0px; */
+}
+
+.listStyle li{
+  background-color: cadetblue;
+  margin: 20px 50px;
+  float: left;
+  display: flex;
+  padding: 10px 20px;
+  
+}
+
+.register input {
+  display: block;
+  margin: 20px 500px ;
+  width: 300px;
+  padding: 10px 10px;
+   
+}
+
+.allProducts{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid lightblue;
+  padding: 30px 30px;
+
+
+}
+
+/* .allProducts li{
+  border: 2px solid lightblue;
+  width: 100px;
+  
+
+} */
+
+
